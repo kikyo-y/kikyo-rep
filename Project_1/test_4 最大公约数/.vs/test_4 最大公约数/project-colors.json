@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7f955d6-7adc-42dc-bdad-214f9f07c00b": {
+      "ProjectGuid": "c7f955d6-7adc-42dc-bdad-214f9f07c00b",
+      "DisplayName": "test_4 最大公约数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

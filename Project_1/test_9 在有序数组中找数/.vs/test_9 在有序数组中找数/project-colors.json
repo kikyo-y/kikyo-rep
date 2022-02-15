@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9568fa4f-ff29-4b75-8114-529bf5626058": {
+      "ProjectGuid": "9568fa4f-ff29-4b75-8114-529bf5626058",
+      "DisplayName": "test_9 在有序数组中找数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
