@@ -1,4 +1,0 @@
-﻿  test_10.c
-D:\鹏哥\Project_1\test_10 字符从两端移动\test_10.c(16,8): warning C4013: “Sleep”未定义；假设外部返回 int
-D:\鹏哥\Project_1\test_10 字符从两端移动\test_10.c(17,9): warning C4013: “system”未定义；假设外部返回 int
-  test_10 字符从两端移动.vcxproj -> D:\鹏哥\Project_1\test_10 字符从两端移动\x64\Debug\test_10 字符从两端移动.exe
