@@ -1,0 +1,4 @@
+﻿  test-16.c
+D:\鹏哥\Project_1\test_16 函数申明\定义.h(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\鹏哥\Project_1\test_16 函数申明\test-16.c(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  test_16 函数申明.vcxproj -> D:\鹏哥\Project_1\test_16 函数申明\x64\Debug\test_16 函数申明.exe
