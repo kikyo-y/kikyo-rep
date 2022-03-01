@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2a2510a-2006-4c6b-8936-d74ad419024b": {
+      "ProjectGuid": "a2a2510a-2006-4c6b-8936-d74ad419024b",
+      "DisplayName": "test_35 嵌套结构体",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
