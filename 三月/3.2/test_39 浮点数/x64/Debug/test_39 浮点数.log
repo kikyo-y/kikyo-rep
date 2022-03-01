@@ -1,0 +1,3 @@
+﻿  test_39.c
+D:\鹏哥\Project_1\test_39 浮点数\test_39.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  test_39 浮点数.vcxproj -> D:\鹏哥\Project_1\test_39 浮点数\x64\Debug\test_39 浮点数.exe

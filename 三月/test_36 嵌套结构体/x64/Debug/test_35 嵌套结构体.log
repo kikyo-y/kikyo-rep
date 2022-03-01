@@ -1,4 +1,0 @@
-﻿  test_35.c
-D:\鹏哥\Project_1\test_35 嵌套结构体\test_35.c(22,1): warning C4047: “初始化”:“char”与“char [3]”的间接级别不同
-D:\鹏哥\Project_1\test_35 嵌套结构体\test_35.c(23,1): warning C4047: “初始化”:“char *”与“char”的间接级别不同
-  test_35 嵌套结构体.vcxproj -> D:\鹏哥\Project_1\test_35 嵌套结构体\x64\Debug\test_35 嵌套结构体.exe
