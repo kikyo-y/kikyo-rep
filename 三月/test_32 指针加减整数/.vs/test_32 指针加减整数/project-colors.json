@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17f37ca1-54eb-44ba-92a5-4b3f96815b37": {
+      "ProjectGuid": "17f37ca1-54eb-44ba-92a5-4b3f96815b37",
+      "DisplayName": "test_32 指针加减整数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,6 @@
+﻿  test_32.c
+D:\鹏哥\Project_1\test_32 指针加减整数\test_32.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\鹏哥\Project_1\test_32 指针加减整数\test_32.c(24,9): message : 请考虑在格式字符串中使用“%lld”
+D:\鹏哥\Project_1\test_32 指针加减整数\test_32.c(24,9): message : 请考虑在格式字符串中使用“%Id”
+D:\鹏哥\Project_1\test_32 指针加减整数\test_32.c(24,9): message : 请考虑在格式字符串中使用“%I64d”
+  test_32 指针加减整数.vcxproj -> D:\鹏哥\Project_1\test_32 指针加减整数\x64\Debug\test_32 指针加减整数.exe
