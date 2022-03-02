@@ -1,0 +1,37 @@
+﻿  test_46.c
+D:\鹏哥\Project_1\test_46\test_46.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(19,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(21,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(23,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(28,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(28,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(30,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(30,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(32,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(32,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(40,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(44,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(44,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(46,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(48,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(48,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(50,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(50,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(54,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\鹏哥\Project_1\test_46\test_46.c(54,9): message : 请考虑在格式字符串中使用“%zd”
+D:\鹏哥\Project_1\test_46\test_46.c(60,23): warning C4013: “strlen”未定义；假设外部返回 int
+  test_46.vcxproj -> D:\鹏哥\Project_1\test_46\x64\Debug\test_46.exe
