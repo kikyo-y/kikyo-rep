@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88dd625b-da32-4aba-94f4-52531740135a": {
+      "ProjectGuid": "88dd625b-da32-4aba-94f4-52531740135a",
+      "DisplayName": "test_42 指针数组升级",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
