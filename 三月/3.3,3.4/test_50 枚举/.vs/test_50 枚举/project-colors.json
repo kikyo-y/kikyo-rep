@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1687d6eb-8b7b-4ca3-8f29-a859bbc0d7b0": {
+      "ProjectGuid": "1687d6eb-8b7b-4ca3-8f29-a859bbc0d7b0",
+      "DisplayName": "test_50 枚举",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

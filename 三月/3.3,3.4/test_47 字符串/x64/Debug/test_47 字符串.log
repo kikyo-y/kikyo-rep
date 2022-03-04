@@ -1,0 +1,5 @@
+﻿  test_47.c
+D:\鹏哥\Project_1\test_47 字符串\test_47.c(23,19): warning C4013: “strlen”未定义；假设外部返回 int
+D:\鹏哥\Project_1\test_47 字符串\test_47.c(35,27): warning C4047: “函数”:“char *”与“char (*)[7]”的间接级别不同
+D:\鹏哥\Project_1\test_47 字符串\test_47.c(35,22): warning C4024: “my_strlen”: 形参和实参 1 的类型不同
+  test_47 字符串.vcxproj -> D:\鹏哥\Project_1\test_47 字符串\x64\Debug\test_47 字符串.exe
