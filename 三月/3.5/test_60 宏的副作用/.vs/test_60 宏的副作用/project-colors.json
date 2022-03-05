@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc686582-5820-43d3-828c-2aed2672bea3": {
+      "ProjectGuid": "bc686582-5820-43d3-828c-2aed2672bea3",
+      "DisplayName": "test_60 宏的副作用",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
