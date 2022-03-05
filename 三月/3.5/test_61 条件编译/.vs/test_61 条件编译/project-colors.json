@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3e6b347-79ed-4e02-ab5b-0e66b5ce09c8": {
+      "ProjectGuid": "e3e6b347-79ed-4e02-ab5b-0e66b5ce09c8",
+      "DisplayName": "test_61 条件编译",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
