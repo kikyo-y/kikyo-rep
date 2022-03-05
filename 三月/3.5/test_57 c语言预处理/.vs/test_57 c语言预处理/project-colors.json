@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b1ddb06-cc8a-4977-8f1c-2000d27fcc16": {
+      "ProjectGuid": "0b1ddb06-cc8a-4977-8f1c-2000d27fcc16",
+      "DisplayName": "test_57 c语言预处理",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

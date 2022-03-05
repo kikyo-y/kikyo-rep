@@ -1,0 +1,10 @@
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=0
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=1
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=2
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=3
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=4
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=5
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=6
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=7
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=8
+file:D:\≈Ù∏Á\Project_1\test_57 c”Ô—‘‘§¥¶¿Ì\test_57.c line:20 date:Mar  5 2022 time:17:23:06 i=9

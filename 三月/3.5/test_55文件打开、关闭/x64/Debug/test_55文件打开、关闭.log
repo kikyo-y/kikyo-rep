@@ -1,0 +1,8 @@
+﻿  test_55.c
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(8,19): warning C4129: “9”: 不可识别的字符转义序列
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(8,19): warning C4129: “D”: 不可识别的字符转义序列
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(8,19): warning C4129: “d”: 不可识别的字符转义序列
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(13,26): warning C4013: “strerror”未定义；假设外部返回 int
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(13,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\鹏哥\Project_1\test_55文件打开、关闭\test_55.c(13,10): warning C4313: “printf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+  test_55文件打开、关闭.vcxproj -> D:\鹏哥\Project_1\test_55文件打开、关闭\x64\Debug\test_55文件打开、关闭.exe
